@@ -33,12 +33,12 @@
         <repository>
             <id>nexus</id>
             <name>Internal Releases</name>
-            <url>http://35.188.195.20:8081/repository/maven-releases/</url>
+            <url>http://13.127.201.184:8081/repository/SAMPLE-RELEASE/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.188.195.20:8081/repository/maven-snapshots/</url>
+            <url>http://13.127.201.184:8081/repository/SAMPLE-SNAPSHOT/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
